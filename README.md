@@ -5,12 +5,6 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ![](https://i.imgur.com/waxVImv.png)
 
-# Roadmaps are now interactive, you can click the nodes to read more about the topics.
-
-### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
-
-![](https://i.imgur.com/waxVImv.png)
-
 #### If your system goes slow
 > Understand your problems: scalability problem (fast for a single user but slow under heavy load) or performance problem (slow for a single user) by reviewing some [design principles](#principle) and checking how [scalability](#scalability) and [performance](#performance) problems are solved at tech companies. The section of [intelligence](#intelligence) are created for those who work with data and machine learning at big (data) and deep (learning) scale.
 
